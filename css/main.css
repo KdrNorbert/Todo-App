@@ -43,3 +43,11 @@
     justify-content: center;
     align-items: center;
 }
+@media screen and (max-width: 1000px){
+    .add-container{
+        width: 60vw;
+    }
+    .list-container{
+        width: 60vw;
+    }
+}
